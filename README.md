@@ -1,3 +1,5 @@
+<title>Portfolio</title>
+
 <h2 align='center'>Building Tomorrow's Digital Experiences Today.</h2>
 
 <h3>👋 ....Hi, my name is</h3>
