@@ -30,8 +30,4 @@ I can speak in emoji! 😎
 
 
 
-Replace placeholders like `[Your Name]`, `[Project Name]`, `link-to-project`, and others with your actual information. Feel free to customize the content, add more projects, showcase specific C++ features, and let your personality shine through.
-
-Remember that this is just a starting point, and you can modify the structure and content to match your preferences and experiences. Using badges, code snippets, and engaging descriptions, you can create an attractive and informative profile that showcases your passion for C++ programming.
-
 
