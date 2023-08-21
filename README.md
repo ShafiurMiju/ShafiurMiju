@@ -1,4 +1,8 @@
-<title>Portfolio</title>
+<html>
+  <head>
+    <title>Portfolio</title>
+  </head>
+</html>
 
 <h2 align='center'>Building Tomorrow's Digital Experiences Today.</h2>
 
