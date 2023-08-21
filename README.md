@@ -1,9 +1,7 @@
-
+<h2 align='center'>Building Tomorrow's Digital Experiences Today.</h2>
 
 <h3>👋 ....Hi, my name is</h3>
 <h1>MD. SHAFIUR RAHMAN</h1>
-
-<h2 align='center'>Building Tomorrow's Digital Experiences Today.</h2>
 
 - 🔭 I’m currently working on some cool projects.
 - 🌱 I’m currently learning new technologies.
