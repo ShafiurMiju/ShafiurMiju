@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://your-image-url.com/your-profile-image.png" alt="Your Name" width="200" />
+</p>
+
 <h3>👋 ....Hi, my name is</h3>
 <h1>MD. SHAFIUR RAHMAN</h1>
 
