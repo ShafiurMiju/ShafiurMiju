@@ -28,6 +28,13 @@
 
 I can speak in emoji! 😎
 
+<footer>
+    <p>Let's connect!</p>
+    <a href="https://github.com/your-username">GitHub</a>
+    <a href="https://www.linkedin.com/in/your-profile">LinkedIn</a>
+    <a href="https://your-portfolio.com">Portfolio</a>
+  </footer>
+
 
 
 
