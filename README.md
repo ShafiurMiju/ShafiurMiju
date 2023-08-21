@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-I'm John Doe, a passionate developer from the universe.
+I'm Md. Shafiur Rahman, a passionate developer from the universe.
 
 - 🔭 I’m currently working on some cool projects.
 - 🌱 I’m currently learning new technologies.
@@ -17,7 +17,7 @@ I'm John Doe, a passionate developer from the universe.
 
 ### Connect with me:
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/john-doe)
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/ShafiurMiju/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/john-doe)
 <!-- Add more social media links -->
 
