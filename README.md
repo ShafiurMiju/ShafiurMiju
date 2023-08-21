@@ -1,9 +1,7 @@
 # Hi there! 👋
 
-I'm Md. Shafiur Rahman, a passionate developer from the universe.
-
-- ....Hi, my name is
-MD. SHAFIUR RAHMAN
+<h1>Hi, my name is
+MD. SHAFIUR RAHMAN</h1>
 
 - 🔭 I’m currently working on some cool projects.
 - 🌱 I’m currently learning new technologies.
