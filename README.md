@@ -1,7 +1,7 @@
 # Hi there! 👋
 
-<h1>Hi, my name is
-MD. SHAFIUR RAHMAN</h1>
+....Hi, my name is
+<h1>MD. SHAFIUR RAHMAN</h1>
 
 - 🔭 I’m currently working on some cool projects.
 - 🌱 I’m currently learning new technologies.
